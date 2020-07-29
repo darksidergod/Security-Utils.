@@ -1,3 +1,3 @@
-# Security-Utils.
+# Testing storage solution repo for smartmed.
 
-### An open repo for adding any network utility/tool that can be used to demonstrate weaknesses of a local network.
+### To be used only as a testing storage solution for research work not for primary storage solution.
